@@ -1,8 +1,8 @@
-# PiOrder
-Raspberry Pi Food Ordering System
+# SmartCafe
+Raspberry Pi-Based Food Ordering and Payment
 
 ## OVERVIEW ##
-This project aims to implement a PiOrder: Raspberry Pi Food Ordering System where instead of having a cashier to give you receipt, you key in what you want yourself, on Raspberry PI 3B+. The project uses keypad as the access mode. When the user tries to access the system, the data is fetched from SQLite database which is inbuilt database on the Raspberry PI 3B+, then the user is presented with food menu and their corresponding prices if it's code is identified. You can as well add as many users as you can to the system manually through simple database insert statement.
+This project aims to implement a SmartCafe: Raspberry Pi-Based Food Ordering and Payment system where instead of having a cashier to give you receipt, you key in what you want yourself, on Raspberry PI 3B+. The project uses keypad as the access mode. When the user tries to access the system, the data is fetched from SQLite database which is inbuilt database on the Raspberry PI 3B+, then the user is presented with food menu and their corresponding prices if it's code is identified. You can as well add as many users as you can to the system manually through simple database insert statement.
 
 ### Hardware Used ###
 1. Raspberry PI 3B+
