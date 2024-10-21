@@ -30,6 +30,9 @@ The 16X2 LCD display screen uses only 4 pins the SCL, SDA, VCC, and GND when int
 #### UART ####
 The Universal Asynchronous Receiver Transmitter is a device for asynchronous serial communication in which the data format and transmission speeds are configurable. A UART is usually an individual (or part of an) integrated circuit (IC) used for serial communication over a computer or peripheral device serial port. UARTs are now commonly included in micro controllers. The Raspberry Pi already has 2 GPIO pins for UART, so we are able to connect the sensor directly to the Raspberry Pi.
 
+![IMG_20231117_160052_149](https://github.com/user-attachments/assets/e700263b-0e18-41c2-807a-d28d2f1b736e)
+
+
 #### SOFTWARE SETUP ####
 Before we start, we need to do some installations and set up different libraries and tools to get our codes to run properly.
 ## Setup for I2C LCD ##
